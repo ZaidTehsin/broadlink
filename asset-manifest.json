@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/broadlink/static/css/main.9ce74ddd.css",
+    "main.js": "/broadlink/static/js/main.6ef51bf5.js",
+    "static/js/787.10609411.chunk.js": "/broadlink/static/js/787.10609411.chunk.js",
+    "static/media/1.jpg": "/broadlink/static/media/1.c8dd00e27492b2551964.jpg",
+    "static/media/bg.jpg": "/broadlink/static/media/bg.11899938d3a777f64563.jpg",
+    "static/media/isp.jpg": "/broadlink/static/media/isp.54a7bb45b2f1640b2aa5.jpg",
+    "static/media/pc2.jpg": "/broadlink/static/media/pc2.f2a21a11b64914b0ca40.jpg",
+    "index.html": "/broadlink/index.html",
+    "main.9ce74ddd.css.map": "/broadlink/static/css/main.9ce74ddd.css.map",
+    "main.6ef51bf5.js.map": "/broadlink/static/js/main.6ef51bf5.js.map",
+    "787.10609411.chunk.js.map": "/broadlink/static/js/787.10609411.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ce74ddd.css",
+    "static/js/main.6ef51bf5.js"
+  ]
+}
